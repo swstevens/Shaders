@@ -1,0 +1,2 @@
+Game engines handle a lot of graphics programming for us. But how do they work under the hood? To figure this out, I'm following the Catlike Coding rendering tutorials here. I'm also reading Real Time Rendering to supplement this learning with more theory. Stay tuned for my takeaways from each lesson, which I'll have as a readme file in each project.
+https://catlikecoding.com/unity/tutorials/rendering/
